@@ -6,6 +6,6 @@ MATLAB 2020a+
 Simulink
 
 ### Instruction
-To run the simulation and visualize the results, please execute the **Main.slx** file in Simulink.
+To run the simulation and visualize the results, please open and execute the **Main.slx** file.
 
 ### Experiment videos
