@@ -8,4 +8,8 @@ Simulink
 ### Instruction
 To run the simulation and visualize the results, please open and execute the **Main.slx** file.
 
-### Experiment videos
+### Experiment video
+
+
+https://github.com/user-attachments/assets/93697f9d-6394-4233-aa3c-ef1dc5b0aa31
+
